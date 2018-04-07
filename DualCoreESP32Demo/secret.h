@@ -1,0 +1,5 @@
+#define WIFI_NAME "SSID"
+#define WIFI_PASS "password"
+#define API_KEY "YouTubeAPIKEY"
+#define TELEGRAM_BOT_TOKEN "TelegramBotToken"
+#define MAPS_API_KEY "GoogleMapsDistanceMatrixAPIKey"
